@@ -1,6 +1,6 @@
 # About the project
 
-This template provides a working frontend made with Reactjs. 
+This template provides a working frontend made with Reactjs. Use VScode for implemementation of this project.
 
 Currently, two official plugins are available:
 
