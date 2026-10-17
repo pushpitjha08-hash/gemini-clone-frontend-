@@ -1,11 +1,10 @@
 # About the project
 
-This template provides a working frontend made with Reactjs. Use VScode for implemementation of this project.
+This template provides a working frontend made with Reactjs. 
 
-Currently, two official plugins are available:
+To open on browser: Debug the pakage.json file using your browser. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+
 
 
 
